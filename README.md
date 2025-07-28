@@ -10,12 +10,12 @@ This project involves analyzing stock market data for **Adani Enterprises** and 
   - Analyzed **price trends, trading volume, and volatility insights**.
 
 - **Power BI Dashboard Development**
-  - Created **100% interactive** Power BI dashboards.
-  - Implemented **50%+ visualization components** (charts, KPIs, trend analyses).
+  - Created interactive Power BI dashboards.
+  - Implemented visualization components (charts, KPIs, trend analyses).
 
 - **Statistical & Business Insights**
-  - Conducted **100% exploratory data analysis**.
-  - Identified **15%+ stock price volatility** (₹370+ standard deviation).
+  - Conducted exploratory data analysis.
+  - Identified stock price volatility (₹370+ standard deviation).
 
 ## Technologies Used
 - **Python** for data preprocessing and analysis
