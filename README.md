@@ -20,7 +20,7 @@ This project involves analyzing stock market data for **Adani Enterprises** and 
 ## Technologies Used
 - **Python** for data preprocessing and analysis
 - **Power BI** for interactive visualization
-- **Excel/CSV** for data storage and manipulation
+- **Excel/CSV File** for data storage and manipulation
 
 ## How to Use
 1. Open the Power BI `.pbix` file to explore dashboards.
